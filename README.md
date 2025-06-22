@@ -69,5 +69,5 @@ https://www.youtube.com/watch?v=SCQ8X1zSslk
 ![ZTA777's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTA777&show_icons=true&theme=dark)
 
 ## Connect With Me
-- **Roblox Profile**: [Your Roblox profile link]
-- **Discord**: [Your Discord if you want to share]
+- **Roblox Profile**: https://www.roblox.com/users/1029215429/profile
+- **Discord**: luminadev
