@@ -1,4 +1,4 @@
-## ZTA777 - Roblox Developer
+## SkullNotS - Roblox Developer
 
 ## About Me
 Hey! I am SkullNotS and I am a Scripter on the Roblox platform. I mainly specialize in scripting and UI I've been coding in the lua language for about 5 years.
