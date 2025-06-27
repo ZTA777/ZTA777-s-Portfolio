@@ -56,8 +56,9 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 - **Description**: This is a showcase of my VFX and my scripting skills.
 - **Technologies**: VFX, System that creates both UI and VFX and power abilities.
 - **Play Here**: https://www.roblox.com/games/72449025908917/VFX-Combat-Power-Showcase
+ 
 
-- [Plot Builder]
+### [Plot Builder]
 Description: I created this just to mainly showcase my work.
 Technologies: Placement System, Money system, Theme mechanic, Reset Plot mechanics, and Delete Mode Mechanic.
 Play Here: https://www.roblox.com/games/96934881237791/Plot-Builder
