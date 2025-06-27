@@ -64,13 +64,13 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 - **Play Here**: https://www.roblox.com/games/96934881237791/Plot-Builder
 
 
-Videos/Screenshots
+### [Videos/Screenshots]
 
-VFX/Combat Power Showcase: https://www.youtube.com/watch?v=SCQ8X1zSslk
+- **VFX/Combat Power Showcase**: https://www.youtube.com/watch?v=SCQ8X1zSslk
 
-Inventory System: https://www.youtube.com/watch?v=1TjaKGCWtDM
+- **Inventory System**: https://www.youtube.com/watch?v=1TjaKGCWtDM
 
-Plot Builder: https://www.youtube.com/watch?v=z-TsPh5hbxQ
+- **Plot Builder**: https://www.youtube.com/watch?v=z-TsPh5hbxQ
 
 
 
