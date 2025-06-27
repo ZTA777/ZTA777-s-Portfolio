@@ -38,8 +38,8 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 
 ### [WW2 RP]
 - **Description**: I am still currently actively working for this group as a Head Developer and a Community Manager. I still add weekly updates for this game to improve and make it better and patch bugs if found.
-- **Systems I made:**: Declare War mechanics, Gamepasses, DevProducts, Alliance Systems, and Spawning factories and other building to gain more GDP system.
-- **Play Here**: [Link to your Roblox game]
+- **Technologies:**: Declare War mechanics, Gamepasses, DevProducts, Alliance Systems, and Spawning factories and other building to gain more GDP system.
+- **Play Here**: https://www.roblox.com/games/9864759962/WW2-Roleplay
 
 
 ### [Particals Project]
@@ -57,10 +57,19 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 - **Technologies**: VFX, System that creates both UI and VFX and power abilities.
 - **Play Here**: https://www.roblox.com/games/72449025908917/VFX-Combat-Power-Showcase
 
+- [Plot Builder]
+Description: I created this just to mainly showcase my work.
+Technologies: Placement System, Money system, Theme mechanic, Reset Plot mechanics, and Delete Mode Mechanic.
+Play Here: https://www.roblox.com/games/96934881237791/Plot-Builder
+
 
 Videos/Screenshots
 
-https://www.youtube.com/watch?v=SCQ8X1zSslk
+VFX/Combat Power Showcase: https://www.youtube.com/watch?v=SCQ8X1zSslk
+
+Inventory System: https://www.youtube.com/watch?v=1TjaKGCWtDM
+
+Plot Builder: https://www.youtube.com/watch?v=z-TsPh5hbxQ
 
 
 
