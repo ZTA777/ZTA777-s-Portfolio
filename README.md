@@ -3,7 +3,7 @@
 ## About Me
 Hey! I am SkullNotS and I am a Scripter on the Roblox platform. I mainly specialize in scripting and UI I've been coding in the lua language for about 5 years.
 
-Contact
+Contact:
 You can contact me through this or through DevForum.
 
 Head Developer & Community Manager @ Josa's Studios (21.1M+ Visits)
@@ -59,9 +59,9 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
  
 
 ### [Plot Builder]
-Description: I created this just to mainly showcase my work.
-Technologies: Placement System, Money system, Theme mechanic, Reset Plot mechanics, and Delete Mode Mechanic.
-Play Here: https://www.roblox.com/games/96934881237791/Plot-Builder
+- **Description**: I created this just to mainly showcase my work.
+- **Technologies**: Placement System, Money system, Theme mechanic, Reset Plot mechanics, and Delete Mode Mechanic.
+- **Play Here**: https://www.roblox.com/games/96934881237791/Plot-Builder
 
 
 Videos/Screenshots
