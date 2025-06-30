@@ -64,6 +64,12 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 - **Play Here**: https://www.roblox.com/games/96934881237791/Plot-Builder
 
 
+### [Royal Chess]
+- **Description**: I created this game just for fun, the game is about chess. (Only took me about 5 hours to make)
+- **Technologies**: Placement System, Winning/Losing system, Bot System (The game itself does not have real AI I had to create the bot for the game), Theme System, Captured Pieces Mechanics.
+- **Play Here**: https://www.roblox.com/games/72979049812215/Royal-Chess
+
+
 ### [Videos/Screenshots]
 
 - **VFX/Combat Power Showcase**: https://www.youtube.com/watch?v=SCQ8X1zSslk
@@ -72,7 +78,7 @@ Owner & Scripter @ Obby Survive (2k+ Visits) (Abandoned) Note: This was also one
 
 - **Plot Builder**: https://www.youtube.com/watch?v=z-TsPh5hbxQ
 
-
+- **Royal Chess game showcase**: https://www.youtube.com/watch?v=Gx1CBQ43gsw
 
 
 ## GitHub Stats
